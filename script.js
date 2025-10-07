@@ -1,8 +1,14 @@
 const messages = [
-  "Dah mau dua tahun aja ya..... 💕",
+  "Alooo alooooo",
+  "Kiiwwww ceweee umur 18 tahunnn💗",
+  "Camaattt ulang tahun yaaa cayaannggg",
+  "Semoga yang di semogakan segera tercapai💗",
+  "Cemogaaa ceweee tuuu makinn ceyinggg kiyimm pap mweheheee",
+  "Makin cemangaattt kuliahnyaaa",
+  "Udah mau dua tahun aja ya..... 💕",
   "Hampir tiap hari gado ajaa kita tapi ga putus putus heheeee 😆",
   "Cemogaa bertahannn teyusss yaaaa 💗",
-  "Aku sayang kamuuu 🥹💖"
+  "Aku sayang kamuuu 💗"
 ];
 
 let index = 0;
